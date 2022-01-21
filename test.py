@@ -1,3 +1,8 @@
+#write a code to create python prgram for word gussesing game like hangman
+
+
+
+
 from random import randint
 l=input("Enter space seperated list of words : ").split()
 n=int(input("Enter number of guesses : "))
